@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "shoppersstop.shoppersstop",
+    "sha256_cert_fingerprints":
+    ["8A:99:8C:01:DA:1C:0D:76:DE:C4:60:48:9B:EA:0E:26:7C:92:BC:41:1B:7F:ED:A4:67:F7:FF:33:9A:20:D9:56"]
+  }
+}]
